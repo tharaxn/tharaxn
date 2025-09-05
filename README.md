@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thansa Muensri
 =======================================================================================================================================
 
-Computer engineering student and I'm interested in becoming a Front-End Developer.
+Computer engineering student.
 ----------------------------------------------------------------------------------
 
 I'm interested in becoming a Front-End Developer, and I am working on improving my front-end skills to a higher level.
